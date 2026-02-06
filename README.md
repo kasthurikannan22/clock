@@ -4,7 +4,7 @@ A simple and elegant real-time clock application built using **React** and **Vit
 It displays the current time and date and updates every second.
 
 ## 📸 Preview
-![Clock App Screenshot](https://github.com/kasthurikannan22/Clock/blob/main/Screenshot%202026-02-06%20095714.png)
+![Clock App Screenshot](https://github.com/kasthurikannan22/clock/blob/main/Screenshot%202026-02-06%20095746.png)
 
 ## 🚀 Features
 - Real-time clock updates
